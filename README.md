@@ -1,2 +1,2 @@
 
-My solutions to the challenges on (Hacker Rank Website)[https://www.hackerrank.com]
+My solutions to the challenges on [Hacker Rank Website](https://www.hackerrank.com)
